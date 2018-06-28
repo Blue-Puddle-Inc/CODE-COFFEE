@@ -19,7 +19,7 @@
 - 言語の特長: 最もシンプル
 - コーヒーの特長: 源流
 - ブレンド: ブラジル、コロンビア
-- 価格: [1000円(税抜) / 100g](http://codecoffee.blue-puddle.com/)
+- 価格: [1000円(税抜) / 100g](https://www.makuake.com/investment/select/code-coffee/36554/)
 
 ### Java: 歴史が長く、原始的な言語コーヒー
 
@@ -28,7 +28,7 @@
 - 言語の特長: 歴史が長い
 - コーヒーの特長: 原種
 - ブレンド: エチオピア、ブラジル他
-- 価格: [1000円(税抜) / 100g](http://codecoffee.blue-puddle.com/)
+- 価格: [1000円(税抜) / 100g](https://www.makuake.com/investment/select/code-coffee/36555/)
 
 ### Perl: かつて一世を風靡したキリマンジャロ
 
@@ -37,7 +37,7 @@ Perlは、かつて業界でよく使われたけど、最近では使われる�
 - 言語の特長: クラシックな人気を誇る
 - コーヒーの特長: 一世風靡
 - ブレンド: タンザニア、ブラジル他
-- 価格: [1000円(税抜) / 100g](http://codecoffee.blue-puddle.com/)
+- 価格: [1000円(税抜) / 100g](https://www.makuake.com/investment/select/code-coffee/36556/)
 
 ### Ruby: 日本人に飲みやすい「良いとこどり」コーヒー
 
@@ -46,7 +46,7 @@ Rubyは、いろんな言語の特徴のいいとこを取り入れた言語。�
 - 言語の特長: いいとこ取り
 - コーヒーの特長: 誰でも美味しい
 - ブレンド: ブラジル、グアテマラ他
-- 価格: [1000円(税抜) / 100g](http://codecoffee.blue-puddle.com/)
+- 価格: [1000円(税抜) / 100g](https://www.makuake.com/investment/select/code-coffee/36557/)
 
 
 ### Python: 機械学習に使われるデカフェコーヒー
@@ -56,7 +56,7 @@ Pythonは、人工知能系の開発に最近だとよく使われています�
 - 言語の特長: 無駄なし
 - コーヒーの特長: デカフェ
 - ブレンド: コロンビア
-- 価格: [1000円(税抜) / 100g](http://codecoffee.blue-puddle.com/)
+- 価格: [1000円(税抜) / 100g](https://www.makuake.com/investment/select/code-coffee/36558/)
 
 ### JavaScript: いろんな言語と合う。ミルクと合う。
 
@@ -65,7 +65,7 @@ Pythonは、人工知能系の開発に最近だとよく使われています�
 - 言語の特長: いろんな言語と合う
 - コーヒーの特長: 初心者にも
 - ブレンド: グアテマラ、ブラジル
-- 価格: [1000円(税抜) / 100g](http://codecoffee.blue-puddle.com/)
+- 価格: [1000円(税抜) / 100g](https://www.makuake.com/investment/select/code-coffee/36559/)
 
 
 ### Go: 無駄のない、唯一無二な独自コーヒー
@@ -75,7 +75,7 @@ Goは、Googleが開発した言語。装飾がなく、力強く、厳格な仕
 - 言語の特長: 独自性
 - コーヒーの特長: 希少性
 - ブレンド: エチオピア、ブラジル
-- 価格: [1000円(税抜) / 100g](http://codecoffee.blue-puddle.com/)
+- 価格: [1000円(税抜) / 100g](https://www.makuake.com/investment/select/code-coffee/36560/)
 
 
 ### Swift: アップルフレーバーの革新的コーヒー
@@ -85,4 +85,4 @@ SwiftはApple社がもともとiOS用に開発した言語。カジュアルで�
 - 言語の特長: Apple社が開発
 - コーヒーの特長: アップルフレーバー
 - ブレンド: ブラジル、コロンビア他
-- 価格: [1000円(税抜) / 100g](http://codecoffee.blue-puddle.com/)
+- 価格: [1000円(税抜) / 100g](https://www.makuake.com/investment/select/code-coffee/36561/)
