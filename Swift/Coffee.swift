@@ -5,3 +5,6 @@ struct Coffee {
         return "Delicious"
     }
 }
+
+let coffee = Coffee()
+print(coffee.taste()) // Delicious
