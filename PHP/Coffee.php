@@ -1,7 +1,10 @@
 <?php
+namespace CodeCoffee;
 
-Class Coffee {
-    public static function taste() : string {
+class Coffee
+{
+    public static function taste(): string
+    {
         return 'Delicious';
     }
 }
