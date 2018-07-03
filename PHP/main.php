@@ -3,4 +3,5 @@ use CodeCoffee\Coffee;
 
 require_once('Coffee.php');
 
-echo Coffee::taste() . "\n";
+$coffee = new Coffee();
+echo $coffee->taste() . "\n";

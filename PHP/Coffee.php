@@ -3,7 +3,7 @@ namespace CodeCoffee;
 
 class Coffee
 {
-    public static function taste(): string
+    public function taste(): string
     {
         return 'Delicious';
     }
